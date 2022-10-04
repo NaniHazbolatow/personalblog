@@ -1,9 +1,0 @@
-I"‚<p>In the NBA, no honor is more important than the Most Valuable Player (MVP) award. After all, in order to be recognized one of the best basketball players of all time, a player must have won the award at least once. Although the award is typically given by members of the media, a playerâ€™s MVP narrative is often reflected in their basketball statistics. In this blog, I attempt to build a model capable of predicting the next MVP using simple and advanced basketball statistics.</p>
-
-<!--more-->
-<h2 id="building-a-webscrapper">Building a webscrapper</h2>
-<p>First, data has to be gathered.</p>
-
-<h2 id="introduction">Introduction</h2>
-
-:ET
