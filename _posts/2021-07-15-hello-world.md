@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Hello World
-categories: [content, demo]
+title: Predicting the NBA's Most Valuable Player 
 ---
 
-Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.  
-This post will demonstrate some of the more common content & elements found in posts.  
-Feel free to delete this post when you are ready to publish your first post.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+<center> <h1>Predicting the NBA's Most Valuable Player </h1> </center>
 
-## Some great heading (h2)
+<img align="centre" width="560" height="560" src="{{ site.baseurl }}/assets/image/stephcurry.png" title="Two time NBA MVP, Steph Curry">  
+
+In this blog post, I try and detail an ongoing project I have been working on.
+## Part I, obtaining data
+
+## Part II, data cleaning
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 <!--more--
