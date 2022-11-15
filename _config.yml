@@ -9,7 +9,7 @@ lang: "en"
 title: Ernani Hazbolatow
 
 # Short bio or description (displayed in the header)
-description: part-time (social) data scientist
+description: data scientist @ Ipsos
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -30,8 +30,8 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Projects
-    url: /
+ /* - title: Projects
+    url: / */
 
   - title: Curriculum Vitae
     url: /cv
